@@ -1,0 +1,9 @@
+{
+    "name": "my-vendor-name/martin",
+    "description": "my first vendor",
+    "autoload": {
+        "psr-4": {
+            "Source\\":"src"
+        }
+    }
+}
